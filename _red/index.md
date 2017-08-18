@@ -1,8 +1,10 @@
 ---
 title: Red index
-date: 2017-08-18 05:01:21 Z
+date: 2017-08-18 05:01:00 Z
 layout: post
 ---
 
 Red index.
 [Test post.](test-red-post)
+
+Adding some extra text here.
