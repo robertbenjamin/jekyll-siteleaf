@@ -6,5 +6,3 @@ layout: post
 
 Red index.
 [Test post.](test-red-post)
-
-Adding some extra text here.
