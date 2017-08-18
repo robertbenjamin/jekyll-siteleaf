@@ -19,7 +19,7 @@ description: 'A test site for the Siteleaf CMS.
 
 '
 baseurl: "/jekyll-siteleaf"
-url: ''
+url: 
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
