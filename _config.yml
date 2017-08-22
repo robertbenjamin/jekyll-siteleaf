@@ -5,6 +5,9 @@ collections:
   blue:
     title: Blue
     output: true
+  offerings:
+    title: Offerings
+    output: true
   posts:
     title: Posts
     output: true
